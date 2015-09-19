@@ -10,7 +10,7 @@ CEEC 采用了 XML 语言作为标注格式，其中包含了六个最重要的�
 
 本语料库的研究与开发由国家自然科学基金项目“基于描述逻辑的事件推理关键问题研究（编号：61305053）”和“事件本体模型与应用技术”（编号：60975033）资助。<br/>
 
-在此感谢上海大学语义智能实验室为CEC的标注工作作出贡献的各位硕士、博士研究生。
+在此感谢上海大学语义智能实验室为CEEC的标注工作作出贡献的各位硕士、博士研究生。
 
 **研究论文：**  
 待补充
@@ -26,10 +26,10 @@ CEEC 采用了 XML 语言作为标注格式，其中包含了六个最重要的�
 
 Chinese Environment Emergency Corpus (CEEC) is built by Data Semantic Laboratory in Shanghai University. This corpus is divided into 6 categories – marine pollution, air pollution, the social effect, water pollution, soil pollution and noise pollution. There are totally 100 texts in CEEC, which are derived from Internet and processed by several steps.
 
-CEEC utilizes XML as a formation, including 6 tags -Denoter, Time, Location, Participant, Mean and Object- which describe the elements of event (Event). Furthermore, these tags have their own properties. Compared with ACE Corpus and TimeBank Corpus, the scale of CEC is not so large, but CEEC has the all-sided annotation of event and event elements.
+CEEC utilizes XML as a formation, including 6 tags -Denoter, Time, Location, Participant, Mean and Object- which describe the elements of event (Event). Furthermore, these tags have their own properties. Compared with ACE Corpus and TimeBank Corpus, the scale of CEEC is not so large, but CEEC has the all-sided annotation of event and event elements.
 
 If you want to know more about CEEC, you can refer to the related dissertations and papers, such as<br/> Research on Event-Oriented Knowledge Processing written by Jianfeng Fu<br/> a Study of Several Key Problems in Construction of Event Ontology written by Xujie Zhang.
 
-The corpus tagging work mainly completed done by Wang Xu, Ding Ning, etc, which format the annotated results, encoding conversion, error correction and other work done by Wang Xu.
+The corpus tagging work mainly completed done by Liu Wei, Wang Xu, Ding Ning, etc, which format the annotated results, encoding conversion, error correction and other work done by Wang Xu.
 
-Thank you, all of the postgraduates and PhDs in Data Semantic Laboratory in Shanghai University, for making a contribution to CEC.
+Thank you, all of the postgraduates and PhDs in Data Semantic Laboratory in Shanghai University, for making a contribution to CEEC.
